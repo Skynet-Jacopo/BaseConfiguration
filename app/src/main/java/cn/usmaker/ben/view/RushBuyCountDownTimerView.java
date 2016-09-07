@@ -25,7 +25,9 @@ import java.util.TimerTask;
 
 import cn.usmaker.base.R;
 
-
+/**
+ * 一个倒计时的控件
+ */
 @SuppressLint("HandlerLeak")
 public class RushBuyCountDownTimerView extends LinearLayout {
     //天,十位

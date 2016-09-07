@@ -16,6 +16,7 @@ import cn.usmaker.base.R;
 /**
  * Created by hedge_hog on 2015/6/11.
  * update by hedge_hog on 2016/6/22
+ * 一个星级评价的控件
  */
 public class RatingBar extends LinearLayout {
     private boolean                mClickable;

@@ -10,6 +10,8 @@ import cn.usmaker.ben.util.ToastUtils;
 
 /**
  * Created by Administrator on 2016/9/6.
+ *
+ * 不同颜色TextView
  */
 public class ShuoMClickableSpan extends ClickableSpan {
 

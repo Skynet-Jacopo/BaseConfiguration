@@ -1,4 +1,4 @@
-package cn.usmaker.ben;
+package cn.usmaker.ben.view;
 
 import android.annotation.TargetApi;
 import android.content.Context;

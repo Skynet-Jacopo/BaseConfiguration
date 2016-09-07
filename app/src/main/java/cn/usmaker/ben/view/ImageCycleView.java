@@ -1,4 +1,4 @@
-package cn.usmaker.ben.view.fixed;
+package cn.usmaker.ben.view;
 
 import android.content.Context;
 import android.os.Handler;
