@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="numColumns" format="integer" /> <!--列数-->
+    <attr name="numRows" format="integer" /><!--行数-->
+    <attr name="itemLayout" format="reference"></attr><!--item的布局文件-->
+    <attr name="itemHeight" format="dimension"></attr><!--item的高度-->
+    <attr name="indicatorHeight" format="dimension"></attr><!--指示器的容器的高度-->
+    <attr name="indicatorBackgroudColor" format="color"></attr><!--指示器容器的背景-->
+    <attr name="indicatorSize" format="dimension"></attr><!--指示器圆点的大小-->
+    <attr name="gvgContentPadding" format="dimension"></attr><!--内容区域离手机两边的距离-->
+    <attr name="contentBackgroudColor" format="color"></attr><!--内容区域的背景颜色-->
+    <attr name="itemTextSize" format="dimension"></attr><!--item的文字大小-->
+
+    <declare-styleable name="GridViewGallery">
+        <attr name="numColumns"></attr>
+        <attr name="numRows"></attr>
+        <attr name="itemLayout"></attr>
+        <attr name="itemHeight"></attr>
+        <attr name="indicatorHeight"></attr>
+        <attr name="indicatorBackgroudColor"></attr>
+        <attr name="gvgContentPadding"></attr>
+        <attr name="contentBackgroudColor"></attr>
+        <attr name="itemTextSize"></attr>
+        <attr name="indicatorSize"></attr>
+    </declare-styleable>
+</resources>
